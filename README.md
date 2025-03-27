@@ -1,11 +1,11 @@
-# DJI-LUT-Applicator
-Apply DJI LUTs to videos in batches.
+# LUT-Applicator
+Apply LUTs to videos in batches.
 
 
 ## Steps
 1. Install FFmpeg
 
-2. Download the LUTs from [here](https://www.dji.com/lut)
+2. Download LUTs [here](https://www.dji.com/lut)（e.g. DJI lut）
 
 3. Run the script
 ```bash
