@@ -21,4 +21,5 @@ python dji_lut_batch.py /path/to/videos /path/to/dji_lut.cube -q veryfast
 python dji_lut_batch.py /path/to/videos /path/to/dji_lut.cube --no-gpu
 ```
 
-
+## Lisence
+LGPL-3.0
