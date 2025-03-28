@@ -16,6 +16,9 @@ python dji_lut_batch.py /path/to/videos /path/to/dji_lut.cube -c 18
 
 # Use a different quality preset (default is medium)    
 python dji_lut_batch.py /path/to/videos /path/to/dji_lut.cube -q veryfast
+
+# Disable GPU acceleration
+python dji_lut_batch.py /path/to/videos /path/to/dji_lut.cube --no-gpu
 ```
 
 
